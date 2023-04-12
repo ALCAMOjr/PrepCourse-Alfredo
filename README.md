@@ -1,2 +1,1 @@
-# PrepCourse-Alfredo
-Este es un repositorio de prueba del modulo 2 del prepcourse de Henry
+Es una prueba de como crear un repositorio en Github y clonarlo a mi computadora.
